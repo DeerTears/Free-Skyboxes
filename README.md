@@ -4,6 +4,6 @@ A personal list of galleries for HDRi, 360 Panorama, or otherwise traditional sk
 [View the Masterlist](https://github.com/DeerTears/Free-Skyboxes/blob/main/Masterlist.md)
 
 # Contributing
-If you drop links to other HDRi/Panorama hubs that have freebies that can be used in commercial projects, you can drop the link by itself in an issue, I'm happy to do the rest.
+If you have links to other HDRi/Panorama hubs that have freebies that can be used in commercial projects, you can drop the link by itself in an issue, I'm happy to do the rest.
 
 Thanks for checking this repo out!
